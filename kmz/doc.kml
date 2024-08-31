@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="21">
+        <Folder id="3">
+            <Style id="0">
+                <LineStyle id="1">
+                    <color>ff454545</color>
+                    <colorMode>normal</colorMode>
+                    <width>0.0</width>
+                </LineStyle>
+                <PolyStyle id="2">
+                    <color>ffcccccc</color>
+                    <colorMode>normal</colorMode>
+                    <fill>1</fill>
+                    <outline>1</outline>
+                </PolyStyle>
+            </Style>
+            <name>PPD</name>
+            <Placemark id="5">
+                <name>patio e pista</name>
+                <description><![CDATA[
+<table>
+<tr style="background-color:#DDDDFF;"><td>OBJECTID</td><td>3</td></tr>
+<tr><td>Name</td><td>patio e pista</td></tr>
+<tr style="background-color:#DDDDFF;"><td>descriptio</td><td></td></tr>
+<tr><td>timestamp</td><td></td></tr>
+<tr style="background-color:#DDDDFF;"><td>begin</td><td></td></tr>
+<tr><td>end</td><td></td></tr>
+<tr style="background-color:#DDDDFF;"><td>altitudeMo</td><td></td></tr>
+<tr><td>tessellate</td><td>1</td></tr>
+<tr style="background-color:#DDDDFF;"><td>extrude</td><td></td></tr>
+<tr><td>visibility</td><td>-1</td></tr>
+<tr style="background-color:#DDDDFF;"><td>drawOrder</td><td></td></tr>
+<tr><td>icon</td><td></td></tr>
+<tr style="background-color:#DDDDFF;"><td>Shape_Leng</td><td>0.07162986642</td></tr>
+<tr><td>Shape_Area</td><td>1.970399e-05</td></tr>
+</table>
+]]></description>
+                <styleUrl>#0</styleUrl>
+                <ExtendedData>
+                    <Data name="OBJECTID">
+                        <value>3</value>
+                        <displayName>OBJECTID</displayName>
+                    </Data>
+                    <Data name="Name">
+                        <value>patio e pista</value>
+                        <displayName>Name</displayName>
+                    </Data>
+                    <Data name="descriptio">
+                        <value/>
+                        <displayName>descriptio</displayName>
+                    </Data>
+                    <Data name="timestamp">
+                        <value/>
+                        <displayName>timestamp</displayName>
+                    </Data>
+                    <Data name="begin">
+                        <value/>
+                        <displayName>begin</displayName>
+                    </Data>
+                    <Data name="end">
+                        <value/>
+                        <displayName>end</displayName>
+                    </Data>
+                    <Data name="altitudeMo">
+                        <value/>
+                        <displayName>altitudeMo</displayName>
+                    </Data>
+                    <Data name="tessellate">
+                        <value>1</value>
+                        <displayName>tessellate</displayName>
+                    </Data>
+                    <Data name="extrude">
+                        <value/>
+                        <displayName>extrude</displayName>
+                    </Data>
+                    <Data name="visibility">
+                        <value>-1</value>
+                        <displayName>visibility</displayName>
+                    </Data>
+                    <Data name="drawOrder">
+                        <value/>
+                        <displayName>drawOrder</displayName>
+                    </Data>
+                    <Data name="icon">
+                        <value/>
+                        <displayName>icon</displayName>
+                    </Data>
+                    <Data name="Shape_Leng">
+                        <value>0.07162986642</value>
+                        <displayName>Shape_Leng</displayName>
+                    </Data>
+                    <Data name="Shape_Area">
+                        <value>1.970399e-05</value>
+                        <displayName>Shape_Area</displayName>
+                    </Data>
+                </ExtendedData>
+                <MultiGeometry id="4">
+                    <Polygon id="6">
+                        <altitudeMode>clampToGround</altitudeMode>
+                        <outerBoundaryIs>
+                            <LinearRing id="10">
+                                <coordinates>-34.95890022542068,-7.139890169553209,0.0 -34.958529114683415,-7.140259422617877,0.0 -34.95850776723739,-7.140235146357845,0.0 -34.95845906975406,-7.140200724743889,0.0 -34.95839854724204,-7.1401860994474715,0.0 -34.95831264555102,-7.1401975893555205,0.0 -34.95823458256632,-7.14021323996718,0.0 -34.95814977343126,-7.140242296830292,0.0 -34.95807809001292,-7.140284088283921,0.0 -34.95801346957654,-7.140334439391552,0.0 -34.957961343597105,-7.140403670587436,0.0 -34.95791754745164,-7.140491436607297,0.0 -34.95788627327727,-7.140570144140948,0.0 -34.95786090452697,-7.1406601755216945,0.0 -34.95785301839044,-7.1407486741869155,0.0 -34.9578452357884,-7.140836011303635,0.0 -34.95782099175807,-7.140935517526822,0.0 -34.957800013812005,-7.141000771772204,0.0 -34.95774347954807,-7.141077991531854,0.0 -34.94205264756255,-7.156821024607781,0.0 -34.9424162343617,-7.157201381648112,0.0 -34.94272144223419,-7.156933224882445,0.0 -34.94275935813448,-7.1569265352371785,0.0 -34.9428221796295,-7.156920955939766,0.0 -34.942892959412234,-7.156917336202754,0.0 -34.94301490086508,-7.156901806496584,0.0 -34.943165694998186,-7.156864255419408,0.0 -34.943248043672384,-7.1568188670715935,0.0 -34.94331377361635,-7.156748963110035,0.0 -34.94337377209871,-7.156653537552699,0.0 -34.94342785047519,-7.156522757305467,0.0 -34.94346503611132,-7.156358092178941,0.0 -34.94349795547828,-7.156235429770963,0.0 -34.94353289854985,-7.156126198597967,0.0 -34.94357701983779,-7.15605134983798,0.0 -34.9485281744154,-7.151113308221395,0.0 -34.948583662960004,-7.15110737153009,0.0 -34.948656718529435,-7.151098041381607,0.0 -34.948760740733974,-7.1510912154340645,0.0 -34.94881883925933,-7.151080714028468,0.0 -34.948880445327134,-7.151055196502415,0.0 -34.94893896361771,-7.1510240852206834,0.0 -34.94900067801751,-7.150973589783512,0.0 -34.94903895531405,-7.150917740202824,0.0 -34.94906900788612,-7.150855390521138,0.0 -34.94909365909041,-7.150788432372338,0.0 -34.949114496173564,-7.150727608461585,0.0 -34.94912994015175,-7.150667588286303,0.0 -34.94915241408461,-7.150576078351036,0.0 -34.94917615359327,-7.150493073194411,0.0 -34.94921023164147,-7.15040919339975,0.0 -34.94925856080687,-7.150363102651452,0.0 -34.959285609148196,-7.140281873742817,0.0 -34.95890022542068,-7.139890169553209,0.0</coordinates>
+                            </LinearRing>
+                        </outerBoundaryIs>
+                    </Polygon>
+                </MultiGeometry>
+            </Placemark>
+        </Folder>
+    </Document>
+</kml>
